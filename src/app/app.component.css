@@ -1,0 +1,9 @@
+.navbar-brand{
+	
+	font-size: 34px;
+}
+.navbar{
+	width: 100%;	
+	background-color : #9b9999;   
+	border-bottom: 1px solid gray;
+}
